@@ -1,0 +1,23 @@
+[global]
+frame_color = "#c4a7e7"
+separator_color = frame
+transparency = 1
+padding = 8
+horizontal_padding = 5
+offset = 7x7
+highlight = #e0def4
+
+[urgency_low]
+background = "#26233a"
+foreground = "#C6D0F5"
+
+[urgency_normal]
+background = "#26233a"
+foreground = "#C6D0F5"
+
+[urgency_critical]
+background = "#26233a"
+foreground = "#C6D0F5"
+frame_color = "#EF9F76"
+
+

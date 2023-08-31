@@ -1,0 +1,37 @@
+window {
+    margin: 0px;
+    border: 1px solid #9ccfd8;
+    background-color: #232136;
+    font-family: sans-serif;
+    background: rgba(25, 23, 36, .2);
+}
+
+#input {
+    margin: 5px;
+    border: none;
+    color: #e0def4;
+    background: #524f67;
+
+}
+
+#inner-box {
+    margin: 5px;
+    border: none;
+}
+
+#outer-box {
+    margin: 5px;
+    padding-bottom: 10px;
+    border: none;
+    background: rgba(25, 23, 36, .1);
+}
+
+#text {
+    margin: 2px;
+    border: none;
+    color: #e0def4;
+}
+
+#entry:selected {
+    background-color: #6e6a86;
+}
